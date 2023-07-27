@@ -1,8 +1,8 @@
-🌱 I'm currently learning ReactJS
+🌱 I'm currently learning ReactJS and NEXTJS
 
 🔭 I'm currently working on Small Projects
 
-🤝 I'm looking for Junior Job
+🤝 I'm looking for Mid lvl Job
 
 ## 🌐Socials
 
